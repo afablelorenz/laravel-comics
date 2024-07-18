@@ -1,9 +1,3 @@
 @extends('layouts.app')
 
-@section('page-title', 'homepage')
-
-@section('main-content')
-    <h1>
-        Homepage
-    </h1>
-@endsection
+@section('page-name', 'DC Comics')
